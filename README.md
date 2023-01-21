@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thehippoz
 - 👀 I’m interested in c javascript python.
-- 🌱 I’m currently learning the real truth of the world.
 
 - 📫 How to reach me benbarbre@gmail.com
 
